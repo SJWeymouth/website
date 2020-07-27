@@ -1,0 +1,39 @@
+---
+abstract: This is the abstract
+authors:
+- J. Bradford Jensen
+- Dennis P. Quinn
+- admin
+date: "2015-07-22T00:00:00Z"
+doi: "https://doi.org/10.1017/S0020818315000247"
+featured: false
+projects: []
+publication: '*International Organization*, 69(4)'
+publication_short: ""
+publication_types:
+- "2"
+publishDate: "2015-07-22T00:00:00Z"
+#slides: example
+#summary: This is the summary.
+tags:
+- Source Themes
+title: 'The Influence of Firm Global Supply Chains and Foreign Currency Undervaluations on U.S. Trade Disputes'
+url_code: ""
+url_dataset: ""
+url_pdf: 
+url_poster: ""
+url_project: ""
+#url_slides: ""
+url_source: ""
+url_video: ""
+---
+
+{{% alert note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /alert %}}
+
+{{% alert note %}}
+Click the *Slides* button above to demo Academic's Markdown slides feature.
+{{% /alert %}}
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).

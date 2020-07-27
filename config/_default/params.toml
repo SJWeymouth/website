@@ -16,7 +16,7 @@
 theme = "ocean"
 
 # Enable users to switch between day and night mode?
-day_night = true
+day_night = false
 
 # Override the theme's font set (optional).
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
@@ -100,7 +100,7 @@ address = {street = "37th and O Streets, NW", city = "Washington", region = "DC"
 coordinates = {latitude = "38.909294", longitude = "-77.075564"}
 
 # Directions for visitors to locate you.
-directions = "3rd Floor"
+directions = "327 Hariri Building"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
@@ -167,7 +167,7 @@ copyright_license = {enable = false, allow_derivatives = false, share_alike = tr
 highlight_superuser = false
 
 # Link authors to their profile page? (true/false)
-link_authors = true
+link_authors = false
 
 # Abstract length (characters) in the Compact and Portfolio Card list views. Also, see `summaryLength` in `config.toml`.
 abstract_length = 135
@@ -202,7 +202,13 @@ plugins_js  = []
 
   # Citation style ("apa" or "mla")
   citation_style = "apa"
-
+  
+  # Link the title of the publication to the publication
+  links_title = false
+  
+  # Link the authors of the publication to the list of publication made by this author
+  links_authors = false
+  
 # Configuration of project pages.
 [projects]
   # Views for associated content.
