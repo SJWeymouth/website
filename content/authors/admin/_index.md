@@ -7,11 +7,18 @@ education:
   - course: PhD in Political Science and International Affairs
     institution: University of California, San Diego
     year: 2010
+  - course: M.A. in Latin American Studies
+    institution: University of California, San Diego
+    year: 2006
+  - course: B.S. in Economics
+    institution: Arizona State University
+    year: 1999
 email: ""
 interests:
-- trade politics
-- populism
-- digital globalization
+- globalization backlash
+- trade and exchange rate politics
+- identity and political behavior
+
 organizations:
 - name: Georgetown University
   url: ""
@@ -36,4 +43,4 @@ user_groups:
 - Visitors
 ---
 
-Stephen Weymouth is the Dewey Awad Fellow at the McDonough School of Business. His research focuses on political responses to globalization and technological change. He teaches courses on international business, nonmarket strategy, and the implications of artificial intelligence for business and society.   
+Stephen Weymouth is the Dewey Awad Fellow at Georgetown University's McDonough School of Business. His research focuses on political responses to globalization and technological change. He teaches courses on international business, nonmarket strategy, and the implications of artificial intelligence for business and society.   

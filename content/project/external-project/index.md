@@ -10,7 +10,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/dataglobalized
-summary: Under contract with *Cambridge University Press*.
+summary: Under contract with *Cambridge University Press*
 #summary: An example of linking directly to an external project website using `external_link`.
 tags:
 - digital globalization

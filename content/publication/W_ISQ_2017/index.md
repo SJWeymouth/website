@@ -18,10 +18,10 @@ tags:
 title: 'Service Firms in the Politics of U.S. Trade Policy'
 url_code: ""
 url_dataset: ""
-url_pdf: 
+url_pdf: files/WeymouthISQ2017.pdf
 url_poster: ""
 url_project: ""
-#url_slides: "http://arxiv.org/pdf/1512.04133v1"
+#url_slides: ""
 url_source: ""
 url_video: ""
 ---

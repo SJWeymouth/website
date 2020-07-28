@@ -5,7 +5,7 @@ authors:
 - Pablo Pinto
 - admin
 date: "2017-04-24T00:00:00Z"
-doi: "https://doi.org/10.1017/S0020818317000194"
+doi: "https://doi.org/10.1017/S002081831700011X"
 featured: false
 projects: []
 publication: '*International Organization*, 71(2)'
@@ -20,10 +20,10 @@ tags:
 title: 'The Distributional Consequences of Preferential Trade Liberalization: Firm-level Evidence'
 url_code: ""
 url_dataset: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: files/bpw_io_final.pdf
 url_poster: ""
 url_project: ""
-#url_slides: "http://arxiv.org/pdf/1512.04133v1"
+#url_slides: ""
 url_source: ""
 url_video: ""
 ---

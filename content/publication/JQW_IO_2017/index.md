@@ -20,10 +20,10 @@ tags:
 title: 'Winners and Losers in International Trade: The Effects on U.S. Presidential Voting'
 url_code: ""
 url_dataset: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: files/jqw_trade_votingIO.pdf
 url_poster: ""
 url_project: ""
-#url_slides: "http://arxiv.org/pdf/1512.04133v1"
+#url_slides: ""
 url_source: ""
 url_video: ""
 ---

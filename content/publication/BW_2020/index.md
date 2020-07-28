@@ -22,7 +22,7 @@ publication_short: ""
 abstract: "Globalization and automation have contributed to deindustrialization and the loss of millions of manufacturing jobs, yielding important electoral implications across advanced democracies. Coupling insights from economic voting and social identity theory, we consider how different groups in society may construe manufacturing job losses in contrasting ways. We argue that deindustrialization threatens dominant group status, leading white voters in affected localities to favor candidates they believe will address economic distress and defend racial hierarchy. Examining three recent US presidential elections, we find: (1) white worker layoffs weaken support for Democratic incumbent candidates and (2) white voters are more likely to vote for Republican challengers where manufacturing layoffs are high, especially in 2016. In survey data, white respondents associate local manufacturing job losses with obstacles to individual upward mobility, and with broader American economic decline. Deindustrialization appears central to the white voter backlash that culminated in the election of Donald Trump."
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "We argue that deindustrialization is central to the white voter backlash that culminated in the election of Donald Trump."
 
 tags: []
 categories: []
@@ -31,7 +31,7 @@ featured: false
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-- name: paper
+- name: PDF
   url: files/BW_July_2020.pdf
 
 url_pdf:

@@ -68,6 +68,8 @@ subtitle = ""
 +++
 
 <!--
+I think that there will be an automatic note at the bottom of the section that links to additional 
+publications, once the pubs folder exceeds the alloted amount. 
 {{% alert note %}}
 A complete list of publications is [here]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}

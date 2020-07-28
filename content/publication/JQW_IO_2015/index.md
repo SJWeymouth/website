@@ -1,5 +1,5 @@
 ---
-abstract: This is the abstract
+abstract: This is the abstract.
 authors:
 - J. Bradford Jensen
 - Dennis P. Quinn
@@ -20,7 +20,7 @@ tags:
 title: 'The Influence of Firm Global Supply Chains and Foreign Currency Undervaluations on U.S. Trade Disputes'
 url_code: ""
 url_dataset: ""
-url_pdf: 
+url_pdf: files/JQW-IO.pdf
 url_poster: ""
 url_project: ""
 #url_slides: ""

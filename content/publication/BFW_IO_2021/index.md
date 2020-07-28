@@ -8,7 +8,7 @@ date: "2021-05-16T00:00:00Z"
 doi: ""
 featured: false
 projects: []
-publication: '*International Organization*, 75(1)'
+publication: '*International Organization*, 75'
 publication_short: ""
 publication_types:
 - "2"
@@ -20,7 +20,7 @@ tags:
 title: 'Populism in Place: The Economic Geography of the Globalization Backlash'
 url_code: ""
 url_dataset: ""
-url_pdf: 
+url_pdf: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3501263"
 url_poster: ""
 url_project: ""
 #url_slides: ""
