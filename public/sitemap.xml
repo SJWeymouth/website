@@ -98,7 +98,7 @@
   </url>
   
   <url>
-    <loc>/publication-type/3/</loc>
+    <loc>/publication-type/1/</loc>
     <lastmod>2020-07-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -125,6 +125,16 @@
   <url>
     <loc>/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/iain-osgood/</loc>
+    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/bow_rio_2019/</loc>
+    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -178,13 +188,23 @@
   </url>
   
   <url>
-    <loc>/author/pablo-pinto/</loc>
+    <loc>/author/pablo-m.-pinto/</loc>
     <lastmod>2017-04-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/bpw_io_2017/</loc>
     <lastmod>2017-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/pw_ep_2016/</loc>
+    <lastmod>2016-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/w_ab_2016/</loc>
+    <lastmod>2016-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -250,6 +270,66 @@
   <url>
     <loc>/publication/jqw_io_2015/</loc>
     <lastmod>2015-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/edmund-malesky/</loc>
+    <lastmod>2014-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/nathan-jensen/</loc>
+    <lastmod>2014-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/jmw_bjps_2014/</loc>
+    <lastmod>2014-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/bw_ep_2013/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/w_bp_2012/</loc>
+    <lastmod>2012-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/wm_ii_2012/</loc>
+    <lastmod>2012-11-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/w_cps_2011/</loc>
+    <lastmod>2011-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/wf_laps_2011/</loc>
+    <lastmod>2011-08-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/richard-feinberg/</loc>
+    <lastmod>2011-08-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/peter-gourevitch/</loc>
+    <lastmod>2010-06-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/pgw_ripe_2010/</loc>
+    <lastmod>2010-06-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/bfw_imf_2008/</loc>
+    <lastmod>2008-06-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>

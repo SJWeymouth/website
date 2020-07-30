@@ -2,7 +2,7 @@
 abstract: This is the abstract
 authors:
 - Leonardo Baccini
-- Pablo Pinto
+- Pablo M. Pinto
 - admin
 date: "2017-04-24T00:00:00Z"
 doi: "https://doi.org/10.1017/S002081831700011X"

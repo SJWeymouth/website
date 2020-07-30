@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Selected Publications"
+title = "Recent Publications"
 subtitle = ""
 
 [content]
@@ -15,7 +15,7 @@ subtitle = ""
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 5
+  count = 8
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -67,10 +67,7 @@ subtitle = ""
  css_class = ""
 +++
 
-<!--
-I think that there will be an automatic note at the bottom of the section that links to additional 
-publications, once the pubs folder exceeds the alloted amount. 
 {{% alert note %}}
 A complete list of publications is [here]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}
--->
+
