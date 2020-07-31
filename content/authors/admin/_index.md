@@ -15,8 +15,8 @@ education:
     year: 1999
 email: ""
 interests:
-- globalization backlash
 - trade and exchange rate politics
+- digital economy governance
 - identity and political behavior
 
 organizations:
