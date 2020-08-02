@@ -4,13 +4,14 @@
   publish = "exampleSite/public"
 
 [build.environment]
-  HUGO_THEME = "repo"
   HUGO_VERSION = "0.74.3"
+  HUGO_THEME = "repo"
   HUGO_ENABLEGITINFO = "true"
 
 [context.production.environment]
-  HUGO_ENV = "production"
   HUGO_VERSION = "0.74.3"
+  HUGO_ENV = "production"
+  HUGO_ENABLEGITINFO = "true"
   
 [context.deploy-preview]
   command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL --themesDir ../../"
