@@ -16,7 +16,7 @@ education:
 email: ""
 interests:
 - trade and exchange rate politics
-- digital economy governance
+- governance of the digital economy
 - identity and political behavior
 
 organizations:
@@ -43,4 +43,4 @@ user_groups:
 - Visitors
 ---
 
-Stephen Weymouth is the Dewey Awad Fellow at Georgetown University's McDonough School of Business. His research focuses on political responses to globalization and technological change. He teaches courses on international business, nonmarket strategy, and the implications of artificial intelligence for business and society.   
+Stephen Weymouth is an associate professor and the Dewey Awad Fellow at Georgetown University's McDonough School of Business. His research examines the political environment of globalization and technological change. He teaches courses on international business, nonmarket strategy, and the implications of artificial intelligence for business and society.   
