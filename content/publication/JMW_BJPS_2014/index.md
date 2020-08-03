@@ -16,8 +16,6 @@ publication_types:
 publishDate: "2013-04-10T00:00:00Z"
 #slides: example
 #summary: This is the summary.
-tags:
-- Source Themes
 title: 'Unbundling the Relationship between Authoritarian Legislatures and Political Risk'
 url_code: ""
 url_dataset: ""
