@@ -216,6 +216,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-136050065-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-136050065-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -254,7 +292,7 @@
   <meta property="og:description" content="Associate Professor of International Political Economy"><meta property="og:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2021-05-16T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2017-12-29T00:00:00&#43;00:00">
   
 
   
@@ -577,70 +615,10 @@
     
     
     <div>
-      <h2><a href="/publication/w_bp_2012/" >Firm Lobbying and Influence in Developing Coutnries: A Multilevel Approach</a></h2>
-      <div class="article-style">
-        
-          A large literature examines corporate political activity in the United States, but much less is known about firms’ lobbying activities and policy influence in developing countries. I argue that firm-level heterogeneity helps explain firms’ political …
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/wm_ii_2012/" >The Social Construction of Policy Reform: Economists and Trade Liberalization around the World</a></h2>
-      <div class="article-style">
-        
-          This is the abstract
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/w_cps_2011/" >Political Institutions and Property Rights: Veto Players and Foreign Exchange Commitments in 127 Countries</a></h2>
-      <div class="article-style">
-        
-          What political institutions improve property rights? Building on the work of North and Weingast, this article argues that institutional checks on policy-making discretion (“veto players”) improve the property rights of investors regarding the value …
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/wf_laps_2011/" >National Competitiveness in Comparative Perspective: Evidence from Latin America</a></h2>
-      <div class="article-style">
-        
-          The term competitiveness is widely applied as a catch‐all for investor‐friendly policies and institutions. This article argues that sloppy applications of the term ignore the possibilities of policy tradeoffs and varieties of institutional choices. …
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
       <h2><a href="/publication/pgw_ripe_2010/" >The Politics of Stock Market Development</a></h2>
       <div class="article-style">
         
-          Click the Cite button above to demo the feature to enable visitors to import publication metadata into their reference management software.    Click the Slides button above to demo Academic&rsquo;s Markdown slides feature.
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/bfw_imf_2008/" >Exchange Rate Policy Attitudes: Direct Evidence from Survey Data</a></h2>
-      <div class="article-style">
-        
-          Click the Cite button above to demo the feature to enable visitors to import publication metadata into their reference management software.    Click the Slides button above to demo Academic&rsquo;s Markdown slides feature.
+          This article locates the political determinants of stock market development in the distributional cleavages among voters and interest groups. Our argument questions the prevailing explanation about the role of partisanship in the literature, where it …
         
       </div>
     </div>

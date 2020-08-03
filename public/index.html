@@ -216,6 +216,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-136050065-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-136050065-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -1226,10 +1264,10 @@
 
 
 
-
-
   
   
+
+
 
 
 
@@ -1255,14 +1293,14 @@
 
 <div class="row">
   <div class="col-12 col-lg-4 section-heading">
-    <h1>Recent Publications</h1>
+    <h1>Select Publications</h1>
     
   </div>
   <div class="col-12 col-lg-8">
 
     <div class="alert alert-note">
   <div>
-    A complete list of publications is <a href="/publication/">here</a>.
+    Browse all publications <a href="/publication/">here</a>.
   </div>
 </div>
 
@@ -1285,7 +1323,7 @@
 
     <a itemprop="name">Populism in Place: The Economic Geography of the Globalization Backlash</a>.
 
-  <em>International Organization</em>, 75.
+  <em><strong>International Organization</strong></em>, 75.
   
   <p>
 
@@ -1351,7 +1389,7 @@
 
     <a itemprop="name">The Service Economy: U.S. Trade Coalitions in an Era of Deindustrialization</a>.
 
-  <em>Review of International Organizations</em>, 14(2).
+  <em><strong>Review of International Organizations</strong></em>, 14(2).
   
   <p>
 
@@ -1421,7 +1459,7 @@
 
     <a itemprop="name">Service Firms in the Politics of U.S. Trade Policy</a>.
 
-  <em>International Studies Quarterly</em>, 61(4).
+  <em><strong>International Studies Quarterly</strong></em>, 61(4).
   
   <p>
 
@@ -1491,7 +1529,7 @@
 
     <a itemprop="name">Winners and Losers in International Trade: The Effects on U.S. Presidential Voting</a>.
 
-  <em>International Organization</em>, 73(3).
+  <em><strong>International Organization</strong></em>, 73(3).
   
   <p>
 
@@ -1561,7 +1599,7 @@
 
     <a itemprop="name">The Distributional Consequences of Preferential Trade Liberalization: Firm-level Evidence</a>.
 
-  <em>International Organization</em>, 71(2).
+  <em><strong>International Organization</strong></em>, 71(2).
   
   <p>
 
@@ -1625,153 +1663,13 @@
     
 
   
-  <span >Pablo M. Pinto</span>, <span >Stephen Weymouth</span>
-  </span>
-  (2016).
-
-    <a itemprop="name">Partisan Cycles in Offshore Outsourcing: Evidence from U.S. Imports</a>.
-
-  <em>Economics and Politics</em>, 28(3).
-  
-  <p>
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/files/PW_Offshoring.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/pw_ep_2016/cite.bib">
-  Cite
-</button>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/https://doi.org/10.1111/ecpo.12078" target="_blank" rel="noopener">
-  DOI
-</a>
-
-
-</p>
-
-  
-  
-</div>
-
-      
-    
-      
-        <div class="pub-list-item" style="margin-bottom: 1rem">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-
-  
-  
-
-  <span class="article-metadata li-cite-author">
-    
-
-  
-  <span >Stephen Weymouth</span>
-  </span>
-  (2016).
-
-    <a itemprop="name">Competition Politics: Interest Groups, Democracy, and Antitrust Reform in Developing Countries</a>.
-
-  <em>The Antitrust Bulletin</em>, 61(2).
-  
-  <p>
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/files/Weymouth-Antitrust-Bulletin.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/w_ab_2016/cite.bib">
-  Cite
-</button>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/https://doi.org/10.1177%2F0003603X16644122" target="_blank" rel="noopener">
-  DOI
-</a>
-
-
-</p>
-
-  
-  
-</div>
-
-      
-    
-      
-        <div class="pub-list-item" style="margin-bottom: 1rem">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-
-  
-  
-
-  <span class="article-metadata li-cite-author">
-    
-
-  
   <span >J. Bradford Jensen</span>, <span >Dennis P. Quinn</span>, <span >Stephen Weymouth</span>
   </span>
   (2015).
 
     <a itemprop="name">The Influence of Firm Global Supply Chains and Foreign Currency Undervaluations on U.S. Trade Disputes</a>.
 
-  <em>International Organization</em>, 69(4).
+  <em><strong>International Organization</strong></em>, 69(4).
   
   <p>
 
@@ -1825,13 +1723,6 @@
       
     
 
-    
-    <div class="see-all">
-      <a href="/publication-type/2/">
-        See all publications
-        <i class="fas fa-angle-right"></i>
-      </a>
-    </div>
     
 
   </div>

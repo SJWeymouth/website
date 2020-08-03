@@ -6,15 +6,16 @@ date: "2012-12-01T00:00:00Z"
 doi: "https://doi.org/10.1515/bap-2012-0030"
 featured: false
 projects: []
-publication: '*Business and Politics*, 14(4)'
+publication: '***Business and Politics***, 14(4)'
 publication_short: ""
 publication_types:
 - "2"
 publishDate: "2012-12-01T00:00:00Z"
 #slides: example
 #summary: This is the summary.
-tags:
-- Source Themes
+tags: []
+categories: []
+featured: false
 title: 'Firm Lobbying and Influence in Developing Coutnries: A Multilevel Approach'
 url_code: ""
 url_dataset: ""
@@ -26,12 +27,4 @@ url_source: ""
 url_video: ""
 ---
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
 
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).

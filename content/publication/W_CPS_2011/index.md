@@ -1,12 +1,12 @@
 ---
-abstract: What political institutions improve property rights? Building on the work of North and Weingast, this article argues that institutional checks on policy-making discretion (“veto players”) improve the property rights of investors regarding the value of the domestic currency. Veto players constrain the ability of policy makers to opportunistically pursue policy that may lead to a depreciated domestic currency. The study offers some of the first large-sample evidence that check and balance institutions lower the risk of expropriation, using a direct measure of investors’ revealed preferences as the dependent variable. In particular, evidence from 127 countries over the period 1975-2004 shows that the use of foreign currency as a store of value— a common hedge against domestic currency depreciation—decreases with the number of veto players in government. The findings are robust to multiple specifications, including instrumental variable models that exploit exogenous sources of institutional variation.
+abstract: "What political institutions improve property rights? Building on the work of North and Weingast, this article argues that institutional checks on policy-making discretion (“veto players”) improve the property rights of investors regarding the value of the domestic currency. Veto players constrain the ability of policy makers to opportunistically pursue policy that may lead to a depreciated domestic currency. The study offers some of the first large-sample evidence that check and balance institutions lower the risk of expropriation, using a direct measure of investors’ revealed preferences as the dependent variable. In particular, evidence from 127 countries over the period 1975-2004 shows that the use of foreign currency as a store of value— a common hedge against domestic currency depreciation—decreases with the number of veto players in government. The findings are robust to multiple specifications, including instrumental variable models that exploit exogenous sources of institutional variation."
 authors:
 - admin
 date: "2011-12-01T00:00:00Z"
 doi: "https://doi.org/10.1177%2F0010414010382629"
 featured: false
 projects: []
-publication: '*Comparative Political Studies*, 44(2)'
+publication: '***Comparative Political Studies***, 44(2)'
 publication_short: ""
 publication_types:
 - "2"

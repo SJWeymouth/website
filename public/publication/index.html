@@ -216,6 +216,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-136050065-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-136050065-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -250,7 +288,7 @@
   
   <meta property="og:site_name" content="Stephen Weymouth">
   <meta property="og:url" content="/publication/">
-  <meta property="og:title" content="Publications | Stephen Weymouth">
+  <meta property="og:title" content="Publications and Working Papers | Stephen Weymouth">
   <meta property="og:description" content="Associate Professor of International Political Economy"><meta property="og:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
@@ -271,7 +309,7 @@
 
 
 
-  <title>Publications | Stephen Weymouth</title>
+  <title>Publications and Working Papers | Stephen Weymouth</title>
 
 </head>
 <body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
@@ -559,7 +597,7 @@
     
   
 <div class="universal-wrapper pt-3">
-  <h1>Publications</h1>
+  <h1>Publications and Working Papers</h1>
 
   
 
@@ -732,7 +770,7 @@
 
     <a itemprop="name">Populism in Place: The Economic Geography of the Globalization Backlash</a>.
 
-  <em>International Organization</em>, 75.
+  <em><strong>International Organization</strong></em>, 75.
   
   <p>
 
@@ -806,7 +844,7 @@
 
     <a itemprop="name">Gone for Good: Deindustrialization, White Voter Backlash, and U.S. Presidential Voting</a>.
 
-  Revise and Resubmit at <em>American Political Science Review</em>.
+  Revise and Resubmit at <em><strong>American Political Science Review</strong></em>.
   
   <p>
 
@@ -893,7 +931,7 @@
 
     <a itemprop="name">The Service Economy: U.S. Trade Coalitions in an Era of Deindustrialization</a>.
 
-  <em>Review of International Organizations</em>, 14(2).
+  <em><strong>Review of International Organizations</strong></em>, 14(2).
   
   <p>
 
@@ -971,7 +1009,7 @@
 
     <a itemprop="name">Service Firms in the Politics of U.S. Trade Policy</a>.
 
-  <em>International Studies Quarterly</em>, 61(4).
+  <em><strong>International Studies Quarterly</strong></em>, 61(4).
   
   <p>
 
@@ -1049,7 +1087,7 @@
 
     <a itemprop="name">Winners and Losers in International Trade: The Effects on U.S. Presidential Voting</a>.
 
-  <em>International Organization</em>, 73(3).
+  <em><strong>International Organization</strong></em>, 73(3).
   
   <p>
 
@@ -1127,7 +1165,7 @@
 
     <a itemprop="name">The Distributional Consequences of Preferential Trade Liberalization: Firm-level Evidence</a>.
 
-  <em>International Organization</em>, 71(2).
+  <em><strong>International Organization</strong></em>, 71(2).
   
   <p>
 
@@ -1205,7 +1243,7 @@
 
     <a itemprop="name">Partisan Cycles in Offshore Outsourcing: Evidence from U.S. Imports</a>.
 
-  <em>Economics and Politics</em>, 28(3).
+  <em><strong>Economics and Politics</strong></em>, 28(3).
   
   <p>
 
@@ -1283,7 +1321,7 @@
 
     <a itemprop="name">Competition Politics: Interest Groups, Democracy, and Antitrust Reform in Developing Countries</a>.
 
-  <em>The Antitrust Bulletin</em>, 61(2).
+  <em><strong>The Antitrust Bulletin</strong></em>, 61(2).
   
   <p>
 
@@ -1361,7 +1399,7 @@
 
     <a itemprop="name">The Influence of Firm Global Supply Chains and Foreign Currency Undervaluations on U.S. Trade Disputes</a>.
 
-  <em>International Organization</em>, 69(4).
+  <em><strong>International Organization</strong></em>, 69(4).
   
   <p>
 
@@ -1439,7 +1477,7 @@
 
     <a itemprop="name">Unbundling the Relationship between Authoritarian Legislatures and Political Risk</a>.
 
-  <em>British Journal of Political Science</em>, 44(3).
+  <em><strong>British Journal of Political Science</strong></em>, 44(3).
   
   <p>
 
@@ -1517,7 +1555,7 @@
 
     <a itemprop="name">Government Partisanship and Property Rights: Cross-Country Firm-Level Evidence</a>.
 
-  <em>Economics and Politics</em>, 25(2).
+  <em><strong>Economics and Politics</strong></em>, 25(2).
   
   <p>
 
@@ -1595,7 +1633,7 @@
 
     <a itemprop="name">Firm Lobbying and Influence in Developing Coutnries: A Multilevel Approach</a>.
 
-  <em>Business and Politics</em>, 14(4).
+  <em><strong>Business and Politics</strong></em>, 14(4).
   
   <p>
 
@@ -1673,7 +1711,7 @@
 
     <a itemprop="name">The Social Construction of Policy Reform: Economists and Trade Liberalization around the World</a>.
 
-  <em>International Interactions</em>, 38(5).
+  <em><strong>International Interactions</strong></em>, 38(5).
   
   <p>
 
@@ -1751,7 +1789,7 @@
 
     <a itemprop="name">Political Institutions and Property Rights: Veto Players and Foreign Exchange Commitments in 127 Countries</a>.
 
-  <em>Comparative Political Studies</em>, 44(2).
+  <em><strong>Comparative Political Studies</strong></em>, 44(2).
   
   <p>
 
@@ -1829,7 +1867,7 @@
 
     <a itemprop="name">National Competitiveness in Comparative Perspective: Evidence from Latin America</a>.
 
-  <em>Latin American Politics and Society</em>, 53(3).
+  <em><strong>Latin American Politics and Society</strong></em>, 53(3).
   
   <p>
 
@@ -1901,7 +1939,7 @@
 
     <a itemprop="name">The Politics of Stock Market Development</a>.
 
-  <em>Review of International Political Economy</em>, 17(2).
+  <em><strong>Review of International Political Economy</strong></em>, 17(2).
   
   <p>
 
@@ -1979,7 +2017,7 @@
 
     <a itemprop="name">Exchange Rate Policy Attitudes: Direct Evidence from Survey Data</a>.
 
-  <em>IMF Staff Papers</em>, 55(3).
+  <em><strong>IMF Staff Papers</strong></em>, 55(3).
   
   <p>
 

@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Recent Publications"
+title = "Select Publications"
 subtitle = ""
 
 [content]
@@ -15,7 +15,7 @@ subtitle = ""
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 8
+  count = 6
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -25,10 +25,9 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = ""
+    tag = "select"
     category = ""
-    publication_type = "2"
-    author = ""
+    publication_type = ""
     exclude_featured = false
   
 [design]
@@ -68,6 +67,6 @@ subtitle = ""
 +++
 
 {{% alert note %}}
-A complete list of publications is [here]({{< ref "/publication/_index.md" >}}).
+Browse all publications [here]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}
 

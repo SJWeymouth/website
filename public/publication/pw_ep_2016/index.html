@@ -216,6 +216,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-136050065-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-136050065-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -771,7 +809,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9"><em>Economics and Politics</em>, 28(3)</div>
+          <div class="col-12 col-md-9"><em><strong>Economics and Politics</strong></em>, 28(3)</div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -781,19 +819,7 @@
 
     <div class="space-below"></div>
 
-    <div class="article-style"><div class="alert alert-note">
-  <div>
-    Click the <em>Cite</em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  </div>
-</div>
-<div class="alert alert-note">
-  <div>
-    Click the <em>Slides</em> button above to demo Academic&rsquo;s Markdown slides feature.
-  </div>
-</div>
-<p>Supplementary notes can be added here, including 
-<a href="https://sourcethemes.com/academic/docs/writing-markdown-latex/" target="_blank" rel="noopener">code and math</a>.</p>
-</div>
+    <div class="article-style"></div>
 
     
 
@@ -1036,15 +1062,15 @@
     <h3>Related</h3>
     <ul>
       
-      <li><a href="/publication/bpw_io_2017/">The Distributional Consequences of Preferential Trade Liberalization: Firm-level Evidence</a></li>
+      <li><a href="/publication/w_ab_2016/">Competition Politics: Interest Groups, Democracy, and Antitrust Reform in Developing Countries</a></li>
       
-      <li><a href="/publication/pgw_ripe_2010/">The Politics of Stock Market Development</a></li>
+      <li><a href="/publication/jmw_bjps_2014/">Unbundling the Relationship between Authoritarian Legislatures and Political Risk</a></li>
       
-      <li><a href="/publication/bow_rio_2019/">The Service Economy: U.S. Trade Coalitions in an Era of Deindustrialization</a></li>
+      <li><a href="/publication/wm_ii_2012/">The Social Construction of Policy Reform: Economists and Trade Liberalization around the World</a></li>
       
-      <li><a href="/publication/w_isq_2017/">Service Firms in the Politics of U.S. Trade Policy</a></li>
+      <li><a href="/publication/wf_laps_2011/">National Competitiveness in Comparative Perspective: Evidence from Latin America</a></li>
       
-      <li><a href="/publication/bfw_io_2021/">Populism in Place: The Economic Geography of the Globalization Backlash</a></li>
+      <li><a href="/publication/w_cps_2011/">Political Institutions and Property Rights: Veto Players and Foreign Exchange Commitments in 127 Countries</a></li>
       
     </ul>
   </div>

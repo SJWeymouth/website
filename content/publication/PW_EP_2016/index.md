@@ -7,7 +7,7 @@ date: "2016-11-01T00:00:00Z"
 doi: "https://doi.org/10.1111/ecpo.12078"
 featured: false
 projects: []
-publication: '*Economics and Politics*, 28(3)'
+publication: '***Economics and Politics***, 28(3)'
 publication_short: ""
 publication_types:
 - "2"
@@ -27,12 +27,3 @@ url_source: ""
 url_video: ""
 ---
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).

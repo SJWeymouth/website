@@ -68,7 +68,7 @@
   </url>
   
   <url>
-    <loc>/tag/source-themes/</loc>
+    <loc>/tag/select/</loc>
     <lastmod>2021-05-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -199,6 +199,11 @@
   
   <url>
     <loc>/publication/pw_ep_2016/</loc>
+    <lastmod>2016-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/source-themes/</loc>
     <lastmod>2016-11-01T00:00:00+00:00</lastmod>
   </url>
   
