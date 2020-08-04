@@ -4,7 +4,7 @@ authors:
 bio: My research interests include international political economy and the domestic politics of technological change.
 education:
   courses:
-  - course: PhD in Political Science and International Affairs
+  - course: Ph.D. in Political Science and International Affairs
     institution: University of California, San Diego
     year: 2010
   - course: M.A. in Latin American Studies
