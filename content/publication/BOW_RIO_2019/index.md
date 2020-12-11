@@ -1,8 +1,8 @@
 ---
 abstract: "Services dominate the US economy and are increasingly traded across borders yet little is known about service firms’ trade policy objectives or lobbying activities. We fill this gap by examining services’ political engagement on trade policy as manifested through lobbying, public positions on trade, and reports issued by U.S. Industry Trade Advisory Committees. We document for the first time that service firms are highly active in the politics of US trade agreements and, compared to firms in goods-producing industries, are much less likely to disagree over trade. Instead, service firms are almost uniformly supportive of US trade agreements, which we explain by focusing on the stark US comparative advantage in services. Service firms are therefore a key constituency for deeper international economic cooperation, helping to explain the present era of global integration despite tough times for uncompetitive US manufacturing. We expect service producers to join the defense of global economic order against emergent populism."
 authors:
-- Iain Osgood
 - Leonardo Baccini
+- Iain Osgood
 - admin
 date: "2019-06-15T00:00:00Z"
 doi: "https://doi.org/10.1007/s11558-019-09349-x"
