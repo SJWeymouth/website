@@ -32,7 +32,7 @@ featured: false
 #   Uncomment and edit lines below to show custom links.
 links:
 - name: PDF
-  url: files/BW_July_2020.pdf
+  url: files/BW_2020.pdf
 
 url_pdf:
 url_code:
