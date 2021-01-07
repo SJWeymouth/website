@@ -3,7 +3,7 @@ abstract: ""
 authors:
 - Leonardo Baccini
 - admin
-date: "2021-02-16T00:00:00Z"
+date: "2021-05-16T00:00:00Z"
 doi: ""
 tags: ["select"]
 featured: false
@@ -12,7 +12,7 @@ publication: '***American Political Science Review***, forthcoming'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2015-07-22T00:00:00Z"
+publishDate: "2020-07-22T00:00:00Z"
 #slides: example
 #summary: This is the summary.
 title: 'Gone for Good: Deindustrialization, White Voter Backlash, and U.S. Presidential Voting'
