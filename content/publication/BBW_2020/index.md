@@ -9,7 +9,7 @@ doi: ""
 tags: ["select"]
 featured: false
 projects: []
-publication: '***Journal of Population Economics***, 34(2)'
+publication: '***Journal of Population Economics***, forthcoming'
 publication_short: ""
 publication_types:
 - "2"
