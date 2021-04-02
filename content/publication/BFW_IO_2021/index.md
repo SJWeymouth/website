@@ -5,7 +5,7 @@ authors:
 - Jeffry A. Frieden
 - admin
 date: "2021-04-16T00:00:00Z"
-doi: ""
+doi: "doi:10.1017/S0020818320000314"
 tags: ["select"]
 featured: false
 projects: []
