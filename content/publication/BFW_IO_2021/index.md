@@ -20,7 +20,7 @@ tags: ["select"]
 title: 'Populism in Place: The Economic Geography of the Globalization Backlash'
 url_code: ""
 url_dataset: ""
-url_pdf: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3501263"
+url_pdf: "files/Broz_Frieden_Weymouth_IO_2021.pdf"
 url_poster: ""
 url_project: ""
 #url_slides: ""

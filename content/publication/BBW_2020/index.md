@@ -19,7 +19,7 @@ publishDate: "2015-07-22T00:00:00Z"
 title: 'The COVID-19 Pandemic and the 2020 U.S. Presidential Election'
 url_code: ""
 url_dataset: ""
-url_pdf: files/BBW_2020.pdf
+url_pdf: files/Baccini_Brodeur_Weymouth_2021.pdf
 url_poster: ""
 url_project: ""
 #url_slides: ""
