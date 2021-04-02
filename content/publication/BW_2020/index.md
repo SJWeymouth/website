@@ -8,7 +8,7 @@ doi: ""
 tags: ["select"]
 featured: false
 projects: []
-publication: '***American Political Science Review***, forthcoming'
+publication: '***American Political Science Review***, 115(2)'
 publication_short: ""
 publication_types:
 - "2"
