@@ -9,7 +9,7 @@ doi: "doi:10.1017/S0020818320000314"
 tags: ["select"]
 featured: false
 projects: []
-publication: '***International Organization*** 75(2)'
+publication: '***International Organization,*** 75(2)'
 publication_short: ""
 publication_types:
 - "2"
