@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The Political Origins of Exchange Rate Valuations"
+title: "Do Exchange Rates Influence Voting? Evidence from Elections and Survey Experiments in Democracies"
 authors: ["Dennis P. Quinn", "Thomas Sattler", "Stephen Weymouth"]
 date: 2020-07-09
 doi: ""
@@ -16,7 +16,7 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "R&R at ***International Organization***"
 publication_short: ""
 
 abstract: ""
