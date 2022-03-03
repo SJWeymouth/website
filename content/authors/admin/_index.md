@@ -43,4 +43,4 @@ user_groups:
 - Visitors
 ---
 
-Stephen Weymouth is Provost's Distinguished Associate Professor of international political economy at the McDonough School of Business. His research examines the political environment of globalization and technological change. He teaches courses on international business, nonmarket strategy, and the implications of artificial intelligence for business and society.   
+Stephen Weymouth is Provost's Distinguished Associate Professor of international political economy at Georgetown University's McDonough School of Business. His research examines the political environment of globalization and technological change. He teaches courses on international business, nonmarket strategy, and the implications of artificial intelligence for business and society.   
