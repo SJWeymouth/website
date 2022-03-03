@@ -22,7 +22,7 @@ interests:
 organizations:
 - name: Georgetown University
   url: ""
-role: Associate Professor of International Political Economy
+role: Provost's Distinguished Associate Professor of International Political Economy
 social:
 - icon: envelope
   icon_pack: fas
@@ -43,4 +43,4 @@ user_groups:
 - Visitors
 ---
 
-Stephen Weymouth is an associate professor and the Dewey Awad Fellow at Georgetown University's McDonough School of Business. His research examines the political environment of globalization and technological change. He teaches courses on international business, nonmarket strategy, and the implications of artificial intelligence for business and society.   
+Stephen Weymouth is a Provost's Distinguished Associate Professor at Georgetown University's McDonough School of Business. His research examines the political environment of globalization and technological change. He teaches courses on international business, nonmarket strategy, and the implications of artificial intelligence for business and society.   
