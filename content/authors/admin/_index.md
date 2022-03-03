@@ -22,7 +22,7 @@ interests:
 organizations:
 - name: Georgetown University
   url: ""
-role: Provost's Distinguished Associate Professor of International Political Economy
+role: Provost's Distinguished Associate Professor
 social:
 - icon: envelope
   icon_pack: fas
