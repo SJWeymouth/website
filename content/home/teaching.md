@@ -17,12 +17,13 @@ header:
 <!--
 **** Fall 2020
 -->
-**Fall 2020**
+**Fall 2021**
 * Business and Government Relations (Georgetown)
 
-**Summer 2020**
-* The AI Economy (Univ. of Basel)
-* The AI Economy (Georgetown Executive Education)
+**Spring 2022**
+* Global Business Experience - Mexico City 
 
-**Spring 2020**
-* Business and Policy in the Global Economy (Georgetown MBA Core)
+**Summer 2022**
+* Global Business Experience - Buenos Aires
+* The AI Economy (Univ. of Basel)
+
