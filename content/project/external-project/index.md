@@ -10,12 +10,12 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/dataglobalized
-summary: Under contract with *Cambridge University Press*
+summary: Revise and resubmit, *Cambridge University Press*
 #summary: An example of linking directly to an external project website using `external_link`.
 tags:
 - digital globalization
 title: Digital Globalization
-subtitle: Under contract with Cambridge University Press (Elements Series in International Relations).
+subtitle: Cambridge University Press (Elements Series in International Relations).
 ---
 Digital technologies are reshaping the global economy and complicating its governance. Novel business models deploy digital tools to profit from international transactions in data, services, and knowledge. These innovations in technology and business propel a new, digital phase of globalization defined by an explosion of cross-border information flows that is provoking political conflict and policy discord. Unlike the previous phase of globalization in which governments liberalized tariffs in common industrial cause, policy impediments to digital flows are on the rise. Fundamental differences in governance objectives across nations confound international cooperation in the digital era.
 
