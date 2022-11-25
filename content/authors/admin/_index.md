@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: My research interests include international political economy and the domestic politics of technological change.
+#bio: My research interests include international political economy and the politics of technological change.
 education:
   courses:
   - course: Ph.D. in Political Science and International Affairs
