@@ -17,13 +17,14 @@ header:
 <!--
 **** Fall 2020
 -->
-**Fall 2021**
-* Business and Government Relations 
-
-**Spring 2022**
-* Global Business Experience - Mexico City 
+**Fall 2022**
+* Business and Policy in the Global Economy 
 
 **Summer 2022**
 * Global Business Experience - Buenos Aires
 * The AI Economy (Univ. of Basel)
+
+**Spring 2022**
+* Global Business Experience - Mexico City 
+
 
