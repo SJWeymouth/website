@@ -14,7 +14,7 @@ summary: Forthcoming, *Cambridge University Press*
 #summary: An example of linking directly to an external project website using `external_link`.
 tags:
 - digital globalization
-title: Digital Globalization 
-subtitle: Politics, Policy, and a Governance Paradox
+title: "Digital Globalization: Politics, Policy, and a Governance Paradox" 
+#subtitle: Politics, Policy, and a Governance Paradox
 ---
 Digital technologies are reshaping the global economy and complicating cooperation over its governance.  Innovations in technology and business propel a new, digitally-driven phase of globalization defined by the expansion of cross-border information flows that is provoking political conflict and policy discord. This book argues that the activities of digital value chains (DVCs), the central economic actors in digital globalization, complicate international economic relations. DVC activities can erode individual privacy, shift tax burdens, and cement monopoly positions. These outcomes generate a new politics of globalization, and governments are responding with increasing restrictions on cross-border data flows. This monograph: 1) explains the new sources of political division stemming from digital globalization; 2) documents policy barriers to digital services trade, 3) presents a framework to explain digital trade restrictions across countries; and 4) assesses the prospects for international cooperation on digital governance, which requires countries move beyond coordinated liberalization toward coordinated regulation.
