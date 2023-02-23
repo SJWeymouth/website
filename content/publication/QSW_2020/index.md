@@ -3,7 +3,7 @@
 
 title: "Do Exchange Rates Influence Voting? Evidence from Elections and Survey Experiments in Democracies"
 authors: ["Dennis P. Quinn", "Thomas Sattler", "Stephen Weymouth"]
-date: 2020-07-09
+date: 2023-01-09
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

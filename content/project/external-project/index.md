@@ -3,7 +3,7 @@ date: "2022-11-25T00:00:00Z"
 external_link: ""
 #external_link: https://www.cambridge.org/core/what-we-publish/elements/international-relations
 image:
-  caption: 'Source: etftrends'
+  caption: ''
   focal_point: Smart
 links:
 - icon: twitter
