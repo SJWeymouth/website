@@ -5,13 +5,24 @@ external_link: ""
 image:
   caption: ''
   focal_point: Smart
+  
 links:
 - icon: twitter
   icon_pack: fab
   name: Follow
   url: https://twitter.com/dataglobalized
-summary: Forthcoming, *Cambridge University Press*
-#summary: An example of linking directly to an external project website using `external_link`.
+  
+- icon: globe
+  icon_pack: fas
+  name: Atlantic Council Issue Brief on Bangladesh's Digital Trade Policies
+  url: https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/inside-bangladeshs-new-data-protection-laws/
+  
+#- icon: globe
+#  icon_pack: fas
+#  name: Atlantic Council Issue Brief on India's Digital Trade Policies
+#  url: ''
+  
+summary: Forthcoming, *Cambridge University Press.* 
 tags:
 - digital globalization
 title: "Digital Globalization: Politics, Policy, and a Governance Paradox" 
