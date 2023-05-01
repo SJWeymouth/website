@@ -1,6 +1,6 @@
 ---
 date: "2022-11-25T00:00:00Z"
-external_link: ""
+external_link: "https://www.cambridge.org/core/elements/abs/digital-globalization/9F2022A8E282C1818808D41644C495AB"
 #external_link: https://www.cambridge.org/core/what-we-publish/elements/international-relations
 image:
   caption: ''
