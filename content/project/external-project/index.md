@@ -14,15 +14,15 @@ links:
   
 - icon: globe
   icon_pack: fas
-  name: Atlantic Council Issue Brief on Bangladesh's Digital Trade Policies
+  name: Weymouth's Atlantic Council Brief on Bangladesh's Digital Trade Policies
   url: https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/inside-bangladeshs-new-data-protection-laws/
   
-#- icon: globe
-#  icon_pack: fas
-#  name: Atlantic Council Issue Brief on India's Digital Trade Policies
-#  url: ''
+- icon: globe
+  icon_pack: fas
+  name: Weymouth's Atlantic Council Brief on India's Digital Trade Policies
+  url: https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/indias-personal-data-protection-act-and-the-politics-of-digital-governance/
   
-summary: Forthcoming, *Cambridge University Press.* 
+summary: Cambridge University Press 
 tags:
 - digital globalization
 title: "Digital Globalization: Politics, Policy, and a Governance Paradox" 
