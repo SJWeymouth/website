@@ -17,14 +17,14 @@ header:
 <!--
 **** Fall 2020
 -->
-**Fall 2022**
-* Business and Policy in the Global Economy 
+**Fall 2023**
+* Business and Policy in the Global Economy (MBA Core)
+* Politics of Economic Transformation (MA-IBP)
 
-**Summer 2022**
-* Global Business Experience - Buenos Aires
+**Summer 2023**
+* Global Business Experience - Buenos Aires 
 * The AI Economy (Univ. of Basel)
 
-**Spring 2022**
-* Global Business Experience - Mexico City 
+
 
 
