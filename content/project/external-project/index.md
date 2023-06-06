@@ -14,6 +14,11 @@ links:
   
 - icon: globe
   icon_pack: fas
+  name: Cite
+  url: https://www.cambridge.org/core/elements/abs/digital-globalization/9F2022A8E282C1818808D41644C495AB#
+  
+- icon: globe
+  icon_pack: fas
   name: Weymouth's Atlantic Council Brief on Bangladesh's Digital Trade Policies
   url: https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/inside-bangladeshs-new-data-protection-laws/
   
