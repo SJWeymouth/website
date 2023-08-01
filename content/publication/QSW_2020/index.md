@@ -16,7 +16,7 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "R&R at ***International Organization***"
+publication: "Conditionally accepted at ***International Organization***"
 publication_short: ""
 
 abstract: ""
