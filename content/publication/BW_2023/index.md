@@ -16,7 +16,7 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Under Review"
+publication: "Revise and resubmit, ***British Journal of Political Science***"
 publication_short: ""
 
 abstract: ""
