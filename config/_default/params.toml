@@ -100,7 +100,7 @@ address = {street = "37th and O Streets, NW", city = "Washington", region = "DC"
 coordinates = {latitude = "38.909294", longitude = "-77.075564"}
 
 # Directions for visitors to locate you.
-directions = "327 Hariri Building"
+directions = "553 Hariri Building"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
