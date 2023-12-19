@@ -4,7 +4,7 @@ authors:
 - Dennis P. Quinn
 - Thomas Sattler
 - admin
-date: "2021-05-16T00:00:00Z"
+date: "2023-05-16T00:00:00Z"
 doi: "https://doi.org/10.1017/S002081832300022X"
 tags: ["select"]
 featured: false
@@ -13,7 +13,7 @@ publication: '***International Organization***, 77(4)'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2020-07-22T00:00:00Z"
+publishDate: "2023-07-22T00:00:00Z"
 #slides: example
 #summary: This is the summary.
 title: 'Do Exchange Rates Influence Voting? Evidence from Elections and Survey Experiments in Democracies'
