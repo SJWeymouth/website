@@ -27,6 +27,13 @@ links:
   name: Weymouth's Atlantic Council Brief on India's Digital Trade Policies
   url: https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/indias-personal-data-protection-act-and-the-politics-of-digital-governance/
   
+
+
+- icon: globe
+  icon_pack: fas
+  name: Information Week
+  url: https://www.informationweek.com/machine-learning-ai/more-newspapers-join-the-copyright-battle-against-openai-microsoft
+
 - icon: globe
   icon_pack: fas
   name: Yahoo Finance
