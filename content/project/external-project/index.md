@@ -27,6 +27,21 @@ links:
   name: Weymouth's Atlantic Council Brief on India's Digital Trade Policies
   url: https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/indias-personal-data-protection-act-and-the-politics-of-digital-governance/
   
+- icon: globe
+  icon_pack: fas
+  name: Yahoo Finance
+  url: https://finance.yahoo.com/news/a-new-law-could-ban-tiktok-in-2025-heres-what-happens-next-111917426.html?soc_src=social-sh&soc_trk=tw&tsrc=twtr&guccounter=1&guce_referrer=aHR0cHM6Ly90LmNvLw&guce_referrer_sig=AQAAAFNZlW72-TRSuMzdg2OKkLJfiR84GASki6zQilbcdN_pZuB0SNDtbHYZrrTZSEGmSAQbHw8HRdux7Yhd7d3qcv0Rig5f-DqnmNZZmWFuGFRAM9j7GmF1Lpy-YMGp_EUOqEcQBJGJ5hZKKghfj9xyzBWkPto8yZ5PbIh1nYF2e2YM
+
+- icon: globe
+  icon_pack: fas
+  name: The Hill
+  url: https://thehill.com/policy/technology/4617938-biden-tiktok-ban-what-happens-next/
+  
+- icon: globe
+  icon_pack: fas
+  name: CBS News
+  url: https://www.cbsnews.com/news/bidens-chinese-ev-tariffs-dont-address-lingering-national-security-concerns/
+  
 summary: Cambridge University Press 
 tags:
 - digital globalization
