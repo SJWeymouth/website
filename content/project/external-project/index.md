@@ -49,6 +49,11 @@ links:
   name: CBS News
   url: https://www.cbsnews.com/news/bidens-chinese-ev-tariffs-dont-address-lingering-national-security-concerns/
   
+- icon: globe
+  icon_pack: fas
+  name: Tech Brew
+  url: https://www.emergingtechbrew.com/stories/2024/06/11/ftc-doj-antitrust-ai-microsoft-openai-nvidia
+  
 summary: Cambridge University Press 
 tags:
 - digital globalization
