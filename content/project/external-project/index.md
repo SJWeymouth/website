@@ -43,12 +43,19 @@ links:
   icon_pack: fas
   name: The Hill
   url: https://thehill.com/policy/technology/4617938-biden-tiktok-ban-what-happens-next/
+
+- icon: globe
+  icon_pack: fas
+  name: CNBC
+  url: https://www.cnbc.com/2024/07/24/trump-vs-harris-china-trade-tariffs-policy.html
   
 - icon: globe
   icon_pack: fas
   name: CBS News
   url: https://www.cbsnews.com/news/bidens-chinese-ev-tariffs-dont-address-lingering-national-security-concerns/
-  
+
+
+
 summary: Cambridge University Press 
 tags:
 - digital globalization
