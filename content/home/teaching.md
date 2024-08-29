@@ -17,6 +17,10 @@ header:
 <!--
 **** Fall 2020
 -->
+**Summer 2024**
+* Global Business Experience - Buenos Aires 
+* Business and Policy in the Global Economy (MBA Core)
+
 **Fall 2023**
 * Business and Policy in the Global Economy (MBA Core)
 * Politics of Economic Transformation (MA-IBP)
