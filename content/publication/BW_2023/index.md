@@ -15,7 +15,7 @@ publication_types:
 publishDate: "2020-07-22T00:00:00Z"
 #slides: example
 #summary: This is the summary.
-title: 'Inflation, Blame Attribution, and Voting in the 2022 US Congressional Elections.'
+title: 'Inflation, Blame Attribution, and Voting in the 2022 US Congressional Elections'
 url_code: ""
 url_dataset: ""
 url_pdf: "files/BW_BJPS.pdf"
