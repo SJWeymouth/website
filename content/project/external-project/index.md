@@ -48,6 +48,11 @@ links:
   icon_pack: fas
   name: CNBC
   url: https://www.cnbc.com/2024/07/24/trump-vs-harris-china-trade-tariffs-policy.html
+
+- icon: globe
+  icon_pack: fas
+  name: Fox5 DC
+  url: https://www.fox5dc.com/video/1571068
   
 - icon: globe
   icon_pack: fas
