@@ -51,7 +51,7 @@ links:
 
 - icon: globe
   icon_pack: fas
-  name: Fox5 DC
+  name: Fox5 DC (TV interview)
   url: https://www.fox5dc.com/video/1571068
   
 - icon: globe
@@ -63,7 +63,12 @@ links:
   icon_pack: fas
   name: Tech Brew
   url: https://www.emergingtechbrew.com/stories/2024/06/11/ftc-doj-antitrust-ai-microsoft-openai-nvidia
-  
+
+- icon: globe
+  icon_pack: fas
+  name: Washington Post
+  url: https://www.washingtonpost.com/technology/2025/01/08/meta-facebook-fact-checking-europe-us/
+    
 
 summary: Cambridge University Press 
 tags:
